@@ -1,0 +1,23 @@
+{
+  "name": "nextjs-demo-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@moltin/sdk": "^3.23.0",
+    "next": "^9.0.4",
+    "nprogress": "^0.2.0",
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-stripe-checkout": "^2.6.3",
+    "semantic-ui-react": "^0.87.3"
+  }
+}
